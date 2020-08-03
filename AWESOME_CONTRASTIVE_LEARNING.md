@@ -39,6 +39,10 @@ ImageNet:
 
 - What Makes for Good Views for Contrastive Learning? [[Paper]](https://arxiv.org/abs/2005.10243)
 
+- Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning [[Paper]](https://arxiv.org/pdf/2006.07733.pdf)
+  
+- Big Self-Supervised Models are Strong Semi-Supervised Learners [[Paper]](https://arxiv.org/pdf/2006.10029v1.pdf)
+
 None-ImageNet:
 
 - Learning deep representations by mutual information estimation and maximization. [[Paper]](https://arxiv.org/abs/1808.06670)
@@ -48,6 +52,10 @@ None-ImageNet:
 ### Supervised Image Contrastive Learning
 
 - Supervised Contrastive Learning. [[Paper]](https://arxiv.org/abs/2004.11362)
+
+### Contrastive Learning in Audio
+
+- wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations. [[Paper]](https://arxiv.org/pdf/2006.11477.pdf)  
 
 ### Contrastive Learning in Videos
 
@@ -64,3 +72,12 @@ None-ImageNet:
 - XLNet: Generalized Autoregressive Pretraining for Language Understanding [[Paper]](https://arxiv.org/abs/1906.08237)
 
 - A Mutual Information Maximization Perspective of Language Representation Learning. [[Paper]](https://arxiv.org/abs/1910.08350)
+
+### Contrastive Learning in Graph
+
+- Contrastive Multi-View Representation Learning on Graphs. [ICML 2020]  [[Paper]](https://arxiv.org/abs/2006.05582)
+
+- GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training. [KDD 2020] [[Paper]](https://arxiv.org/abs/2006.09963)
+
+- InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization. [ICLR 2020] [[Paper]](https://arxiv.org/abs/1908.01000)
+
