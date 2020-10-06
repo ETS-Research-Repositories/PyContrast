@@ -73,6 +73,8 @@ None-ImageNet:
 
 - A Mutual Information Maximization Perspective of Language Representation Learning. [[Paper]](https://arxiv.org/abs/1910.08350)
 
+- InfoXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training. [[Paper]](https://arxiv.org/abs/2007.07834)
+
 ### Contrastive Learning in Graph
 
 - Contrastive Multi-View Representation Learning on Graphs. [ICML 2020]  [[Paper]](https://arxiv.org/abs/2006.05582)
@@ -81,3 +83,6 @@ None-ImageNet:
 
 - InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization. [ICLR 2020] [[Paper]](https://arxiv.org/abs/1908.01000)
 
+### Applications
+
+- Contrastive Learning for Unpaired Image-to-Image Translation
